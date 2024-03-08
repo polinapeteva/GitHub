@@ -6,15 +6,15 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	font-family: 'Fantasy', Papyrus;
+	color: brown;
+	background-color: lightpink;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: navajowhite;
 }
 
 .resume-main {
@@ -49,3 +49,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+h1 {
+  color: deeppink;
+}
+

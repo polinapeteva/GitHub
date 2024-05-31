@@ -6,9 +6,17 @@
 /* Styles for the body */
 
 body {
-	font-family: 'Fantasy', Papyrus;
+	font-family: "Edu TAS Beginner", cursive
 	color: brown;
 	background-color: lightpink;
+}
+
+/* Custom class */
+.custom-style {
+    font-family: "Edu TAS Beginner", cursive;
+    color: brown;
+    font-weight: 700;
+    text-align: left;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
